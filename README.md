@@ -35,7 +35,9 @@ node seeds/index.js
 
 to populate the database with information, and finally type (npm run) to run the application  
 ## Usage  
-To see how to use the application, view the video below
+To see how to use the application, view the video below  
+[Link to video tutorial](https://drive.google.com/file/d/1SMDOI_U69fzw3NjtQJfXeMaDEL7jy7c7/view?usp=share_link)
+
 ## License  
 N/A
 ## Contributing  
